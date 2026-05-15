@@ -1,9 +1,9 @@
 ---
 title: "Linear regression: Sonadora temperature and elevation example"
-author: "your name here"
-date: "insert date here"
+author: "Tadeh Peroomian"
+date: "2026-05-15"
 format:
-  html:
+  pdf:
     toc: true # use this to display a table of contents
 execute:
   message: false # use this to make sure messages don't show up
