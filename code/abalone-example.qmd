@@ -1,9 +1,9 @@
 ---
 title: "Linear regression: Abalone growth and pH example"
-author: "your name here"
-date: "insert date here"
-format:
-  html:
+author: "Tadeh Peroomian"
+date: "2026-05-15"
+format: 
+  pdf:
     toc: true # use this to display a table of contents
 execute:
   message: false # use this to make sure messages don't show up
