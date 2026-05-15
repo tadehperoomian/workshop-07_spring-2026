@@ -87,8 +87,8 @@ Don't forget to turn your warnings off either in the individual code chunk or in
 #| label: abalone-model
 
 abalone_model <- lm(
-  change_in_area ~ mean_ph, # 
-  data = abalone_clean      # 
+  change_in_area ~ mean_ph, #  change in shell SA/day as a function of pH
+  data = abalone_clean      # data frame: cleaned abalone data
 )
 ```
 
