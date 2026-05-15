@@ -113,11 +113,11 @@ summary(abalone_model)
 
 What is the slope estimate (with standard error?)  
 
-**insert your response here**  
+$\beta_1$: 2.98 $\pm$ 0.76  
 
 What is the intercept estimate (with standard error?)  
 
-**insert your response here**
+$\beta_0$: -18.50 $\pm$ 6.16
 
 ### Generating predictions
 
