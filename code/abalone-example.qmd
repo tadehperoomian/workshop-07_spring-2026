@@ -96,8 +96,8 @@ abalone_model <- lm(
 
 ```{r abalone-model-diagnostics}
 
-par(mfrow = c(2, 2))   # 
-plot(abalone_model)    # 
+par(mfrow = c(2, 2))   # displays plots in a 2x2 grid
+plot(abalone_model)    #  displays diagnostic plots for model
 
 ```
 
