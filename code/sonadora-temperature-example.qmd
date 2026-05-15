@@ -78,8 +78,8 @@ sonadora_sum <- sonadora_clean |>
 #| label: temperature-visualization
 
 # base layer: ggplot
-ggplot(data = sonadora_sum, 
-       aes(x = elevation_m,
+ggplot(data = sonadora_sum, #data from summarized object
+       aes(x = elevation_m, # x-axis: elevation, y-axis: temperature
            y = mean_temp_c)) +
   # first layer: points representing temperature at each elevation
   geom_point()
